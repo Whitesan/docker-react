@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed at 21:00
+          I was changed
         </a>
       </header>
     </div>
